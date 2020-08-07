@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Gmail Badge](https://img.shields.io/badge/-gibamedeirosgc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:gibamedeirosgc@gmail.com)
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GilbertoMedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-medeiros-6459bb1ab/)](https://www.linkedin.com/in/gilberto-medeiros-6459bb1ab/) 
-| 
+[![Linkedin Badge](https://img.shields.io/badge/-GilbertoMedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-medeiros-6459bb1ab/)](https://www.linkedin.com/in/gilberto-medeiros-6459bb1ab/) 
+
